@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="SushiBot.Api/SushiBot.Api.csproj" />
+  <Project Path="SushiBot.Domain/SushiBot.Domain.csproj" />
+  <Project Path="SushiBot.Infrastructure/SushiBot.Infrastructure.csproj" />
 </Solution>
